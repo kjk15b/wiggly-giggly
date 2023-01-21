@@ -8651,5 +8651,56 @@
          "anonymous": "0",
          "reporter": "abuse_ch"
       }
+   ],
+   "1071117": [
+      {
+         "ioc_value": "118.31.36.92:80",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-21 02:48:03",
+         "last_seen_utc": null,
+         "confidence_level": 75,
+         "reference": "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-118-31-36-92-port-80/",
+         "tags": "CobaltStrike,RedPacketSecurity",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1071115": [
+      {
+         "ioc_value": "20.119.67.107:4433",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-21 02:48:02",
+         "last_seen_utc": null,
+         "confidence_level": 75,
+         "reference": "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-20-119-67-107-port-4433/",
+         "tags": "CobaltStrike,RedPacketSecurity",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1071116": [
+      {
+         "ioc_value": "35.74.29.162:443",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-21 02:48:02",
+         "last_seen_utc": null,
+         "confidence_level": 75,
+         "reference": "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-35-74-29-162-port-443/",
+         "tags": "CobaltStrike,RedPacketSecurity",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
    ]
 }
