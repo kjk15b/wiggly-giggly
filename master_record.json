@@ -66774,5 +66774,4340 @@
          "anonymous": "0",
          "reporter": "patrickp_88"
       }
+   ],
+   "1073950": [
+      {
+         "ioc_value": "107.189.5.101:9506",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "elf.mirai",
+         "malware_alias": "Katana",
+         "malware_printable": "Mirai",
+         "first_seen_utc": "2023-01-25 02:00:05",
+         "last_seen_utc": null,
+         "confidence_level": 75,
+         "reference": "https://bazaar.abuse.ch/sample/aafab6fd7b624d47b40a3d1b1e186140a66c8c0e67ddc82487da0fd67ada773e/",
+         "tags": "Mirai",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073949": [
+      {
+         "ioc_value": "18.156.13.209:18491",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.njrat",
+         "malware_alias": "Bladabindi",
+         "malware_printable": "NjRAT",
+         "first_seen_utc": "2023-01-25 01:05:35",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NjRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073948": [
+      {
+         "ioc_value": "18.192.93.86:18491",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.njrat",
+         "malware_alias": "Bladabindi",
+         "malware_printable": "NjRAT",
+         "first_seen_utc": "2023-01-25 01:00:42",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NjRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073947": [
+      {
+         "ioc_value": "3.73.0.134:80",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-25 01:00:09",
+         "last_seen_utc": "2023-01-25 02:48:03",
+         "confidence_level": 75,
+         "reference": "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-3-73-0-134-port-80/",
+         "tags": "CobaltStrike,RedPacketSecurity",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073946": [
+      {
+         "ioc_value": "120.48.99.90:80",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-25 01:00:08",
+         "last_seen_utc": "2023-01-25 02:48:03",
+         "confidence_level": 75,
+         "reference": "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-120-48-99-90-port-80/",
+         "tags": "CobaltStrike,RedPacketSecurity",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073945": [
+      {
+         "ioc_value": "43.138.21.132:8808",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-25 01:00:06",
+         "last_seen_utc": "2023-01-25 02:48:03",
+         "confidence_level": 75,
+         "reference": "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-43-138-21-132-port-8808/",
+         "tags": "CobaltStrike,RedPacketSecurity",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073944": [
+      {
+         "ioc_value": "198.154.94.36:443",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-25 01:00:05",
+         "last_seen_utc": "2023-01-25 02:48:02",
+         "confidence_level": 75,
+         "reference": "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-198-154-94-36-port-443/",
+         "tags": "CobaltStrike,RedPacketSecurity",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073943": [
+      {
+         "ioc_value": "3.127.138.57:18491",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.njrat",
+         "malware_alias": "Bladabindi",
+         "malware_printable": "NjRAT",
+         "first_seen_utc": "2023-01-25 00:55:35",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NjRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073942": [
+      {
+         "ioc_value": "18.197.239.5:18491",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.njrat",
+         "malware_alias": "Bladabindi",
+         "malware_printable": "NjRAT",
+         "first_seen_utc": "2023-01-25 00:50:35",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NjRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073941": [
+      {
+         "ioc_value": "3.138.180.119:13961",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.njrat",
+         "malware_alias": "Bladabindi",
+         "malware_printable": "NjRAT",
+         "first_seen_utc": "2023-01-25 00:10:37",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NjRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073940": [
+      {
+         "ioc_value": "81.19.136.235:80",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-25 00:10:12",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "AS-ALVIVA,CobaltStrike",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073939": [
+      {
+         "ioc_value": "http://81.19.136.235/cm",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-25 00:10:10",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "AS-ALVIVA,CobaltStrike",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073938": [
+      {
+         "ioc_value": "http://213.170.133.151/",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.recordbreaker",
+         "malware_alias": null,
+         "malware_printable": "RecordBreaker",
+         "first_seen_utc": "2023-01-25 00:05:34",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "RecordBreaker",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073937": [
+      {
+         "ioc_value": "http://3.92.113.197:48888/maps/overlaybfpr",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-25 00:04:16",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "AMAZON-AES,CobaltStrike",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073936": [
+      {
+         "ioc_value": "http://43.138.215.2:8001/activity",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-25 00:03:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "CobaltStrike",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073935": [
+      {
+         "ioc_value": "209.141.37.198:666",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "elf.mirai",
+         "malware_alias": "Katana",
+         "malware_printable": "Mirai",
+         "first_seen_utc": "2023-01-24 23:52:57",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://www.virustotal.com/gui/file/39c846eedfadccfb02d82e3aa6786044d3c8a15cf98aa68b8c41fc6a4c36e079/behavior",
+         "tags": "Mirai",
+         "anonymous": "0",
+         "reporter": "r3dbU7z"
+      }
+   ],
+   "1073934": [
+      {
+         "ioc_value": "198.50.242.125:666",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "elf.mirai",
+         "malware_alias": "Katana",
+         "malware_printable": "Mirai",
+         "first_seen_utc": "2023-01-24 23:52:21",
+         "last_seen_utc": null,
+         "confidence_level": 75,
+         "reference": null,
+         "tags": "Mirai",
+         "anonymous": "0",
+         "reporter": "r3dbU7z"
+      }
+   ],
+   "1073933": [
+      {
+         "ioc_value": "209.141.40.108:123",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "elf.mirai",
+         "malware_alias": "Katana",
+         "malware_printable": "Mirai",
+         "first_seen_utc": "2023-01-24 23:40:04",
+         "last_seen_utc": null,
+         "confidence_level": 75,
+         "reference": "https://bazaar.abuse.ch/sample/33274f50e1ffbd9487ddbcc6737df4aed837c316704379024681f084bc4ad49b/",
+         "tags": "Mirai",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073932": [
+      {
+         "ioc_value": "108.62.118.223:1929",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.netwire",
+         "malware_alias": "NetWeird,NetWire,Recam",
+         "malware_printable": "NetWire RC",
+         "first_seen_utc": "2023-01-24 22:50:43",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NetWire,RAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073931": [
+      {
+         "ioc_value": "https://fepopeguc.com/fo.js",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-24 22:05:48",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "CobaltStrike,Digital Energy Technologies Ltd.",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073930": [
+      {
+         "ioc_value": "http://maylnk.gq/P1/five/fre.php",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.lokipws",
+         "malware_alias": "Burkina,Loki,LokiBot,LokiPWS",
+         "malware_printable": "Loki Password Stealer (PWS)",
+         "first_seen_utc": "2023-01-24 21:20:41",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Loki",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073929": [
+      {
+         "ioc_value": "46.246.14.12:1199",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.loda",
+         "malware_alias": "LodaRAT,Nymeria",
+         "malware_printable": "Loda",
+         "first_seen_utc": "2023-01-24 21:10:37",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Loda",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073928": [
+      {
+         "ioc_value": "45.61.136.193:443",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.icedid",
+         "malware_alias": "BokBot,IceID",
+         "malware_printable": "IcedID",
+         "first_seen_utc": "2023-01-24 20:40:32",
+         "last_seen_utc": null,
+         "confidence_level": 75,
+         "reference": null,
+         "tags": null,
+         "anonymous": "0",
+         "reporter": "r0ny_123"
+      }
+   ],
+   "1073927": [
+      {
+         "ioc_value": "http://clipper.guru/bot/regex?key=be8b883b0f281dda9a96404db70e3988b9c0bec8ec0ad6fca6a9f03ba18c595a",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.laplas",
+         "malware_alias": null,
+         "malware_printable": "LaplasClipper",
+         "first_seen_utc": "2023-01-24 20:35:37",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "LaplasClipper",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073926": [
+      {
+         "ioc_value": "206.123.132.35:2119",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.asyncrat",
+         "malware_alias": null,
+         "malware_printable": "AsyncRAT",
+         "first_seen_utc": "2023-01-24 20:25:37",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "AsyncRAT,RAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073925": [
+      {
+         "ioc_value": "http://a0761996.xsph.ru/UpdateApidbTrafficpublic.php",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.dcrat",
+         "malware_alias": "DarkCrystal RAT",
+         "malware_printable": "DCRat",
+         "first_seen_utc": "2023-01-24 20:10:39",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "DCRat",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073924": [
+      {
+         "ioc_value": "79.134.225.98:2404",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.remcos",
+         "malware_alias": "RemcosRAT,Remvio,Socmer",
+         "malware_printable": "Remcos",
+         "first_seen_utc": "2023-01-24 20:05:36",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "RAT,RemcosRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073923": [
+      {
+         "ioc_value": "druidfenixis.com",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.icedid_downloader",
+         "malware_alias": null,
+         "malware_printable": "IcedID Downloader",
+         "first_seen_utc": "2023-01-24 20:05:03",
+         "last_seen_utc": null,
+         "confidence_level": 75,
+         "reference": "https://bazaar.abuse.ch/sample/ba0743df409f0176c11637524ea85cda7da7d0e36d5f2b0c7614c2d70f0a533a/",
+         "tags": "icedid",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073922": [
+      {
+         "ioc_value": "3.140.223.7:16228",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.njrat",
+         "malware_alias": "Bladabindi",
+         "malware_printable": "NjRAT",
+         "first_seen_utc": "2023-01-24 20:00:46",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NjRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073921": [
+      {
+         "ioc_value": "3.141.177.1:16228",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.njrat",
+         "malware_alias": "Bladabindi",
+         "malware_printable": "NjRAT",
+         "first_seen_utc": "2023-01-24 19:55:44",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NjRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073920": [
+      {
+         "ioc_value": "3.132.159.158:16228",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.njrat",
+         "malware_alias": "Bladabindi",
+         "malware_printable": "NjRAT",
+         "first_seen_utc": "2023-01-24 19:50:56",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NjRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073919": [
+      {
+         "ioc_value": "3.141.210.37:16228",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.njrat",
+         "malware_alias": "Bladabindi",
+         "malware_printable": "NjRAT",
+         "first_seen_utc": "2023-01-24 19:45:36",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NjRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073918": [
+      {
+         "ioc_value": "89.208.103.88:37538",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.redline_stealer",
+         "malware_alias": null,
+         "malware_printable": "RedLine Stealer",
+         "first_seen_utc": "2023-01-24 19:40:36",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "RedLineStealer",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073917": [
+      {
+         "ioc_value": "3.131.147.49:13961",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.njrat",
+         "malware_alias": "Bladabindi",
+         "malware_printable": "NjRAT",
+         "first_seen_utc": "2023-01-24 19:35:35",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NjRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073910": [
+      {
+         "ioc_value": "aduducity.org",
+         "ioc_type": "domain",
+         "threat_type": "payload_delivery",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 19:31:57",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": null,
+         "anonymous": "1",
+         "reporter": "patrickp_88"
+      }
+   ],
+   "1073911": [
+      {
+         "ioc_value": "audacityu.org",
+         "ioc_type": "domain",
+         "threat_type": "payload_delivery",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 19:31:57",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": null,
+         "anonymous": "1",
+         "reporter": "patrickp_88"
+      }
+   ],
+   "1073912": [
+      {
+         "ioc_value": "blenderlo.org",
+         "ioc_type": "domain",
+         "threat_type": "payload_delivery",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 19:31:57",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": null,
+         "anonymous": "1",
+         "reporter": "patrickp_88"
+      }
+   ],
+   "1073913": [
+      {
+         "ioc_value": "blenderno.org",
+         "ioc_type": "domain",
+         "threat_type": "payload_delivery",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 19:31:57",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": null,
+         "anonymous": "1",
+         "reporter": "patrickp_88"
+      }
+   ],
+   "1073914": [
+      {
+         "ioc_value": "blenderon.org",
+         "ioc_type": "domain",
+         "threat_type": "payload_delivery",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 19:31:57",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": null,
+         "anonymous": "1",
+         "reporter": "patrickp_88"
+      }
+   ],
+   "1073915": [
+      {
+         "ioc_value": "tradingview-ger.org",
+         "ioc_type": "domain",
+         "threat_type": "payload_delivery",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 19:31:57",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": null,
+         "anonymous": "1",
+         "reporter": "patrickp_88"
+      }
+   ],
+   "1073916": [
+      {
+         "ioc_value": "tradingview-get.org",
+         "ioc_type": "domain",
+         "threat_type": "payload_delivery",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 19:31:57",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": null,
+         "anonymous": "1",
+         "reporter": "patrickp_88"
+      }
+   ],
+   "1073909": [
+      {
+         "ioc_value": "3.127.59.75:13642",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.njrat",
+         "malware_alias": "Bladabindi",
+         "malware_printable": "NjRAT",
+         "first_seen_utc": "2023-01-24 19:30:39",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NjRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073908": [
+      {
+         "ioc_value": "18.198.77.177:13642",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.njrat",
+         "malware_alias": "Bladabindi",
+         "malware_printable": "NjRAT",
+         "first_seen_utc": "2023-01-24 19:25:34",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NjRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073906": [
+      {
+         "ioc_value": "91c5081b4b87197db3eb46936dbcc811",
+         "ioc_type": "md5_hash",
+         "threat_type": "payload",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 19:24:41",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "",
+         "tags": null,
+         "anonymous": "0",
+         "reporter": "patrickp_88"
+      }
+   ],
+   "1073907": [
+      {
+         "ioc_value": "092883371b922937a94d9f138dac8d5d",
+         "ioc_type": "md5_hash",
+         "threat_type": "payload",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 19:24:41",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "",
+         "tags": null,
+         "anonymous": "0",
+         "reporter": "patrickp_88"
+      }
+   ],
+   "1073905": [
+      {
+         "ioc_value": "3.121.139.82:13642",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.njrat",
+         "malware_alias": "Bladabindi",
+         "malware_printable": "NjRAT",
+         "first_seen_utc": "2023-01-24 19:20:39",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NjRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073904": [
+      {
+         "ioc_value": "52.28.112.211:13642",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.njrat",
+         "malware_alias": "Bladabindi",
+         "malware_printable": "NjRAT",
+         "first_seen_utc": "2023-01-24 19:15:36",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NjRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073903": [
+      {
+         "ioc_value": "213.142.147.65:8080",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.bianlian",
+         "malware_alias": null,
+         "malware_printable": "BianLian",
+         "first_seen_utc": "2023-01-24 19:01:24",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "https://search.censys.io/search?resource=hosts&q=services.certificate%3A%221efe88adbb16d17952851e961e3a1937735bd63faf208fe7fa1efcfaa0180222%22",
+         "tags": "Bianlian Go Trojan,SCALAXY-AS",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073902": [
+      {
+         "ioc_value": "149.154.158.120:5996",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.bianlian",
+         "malware_alias": null,
+         "malware_printable": "BianLian",
+         "first_seen_utc": "2023-01-24 19:00:32",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "https://search.censys.io/search?resource=hosts&q=services.certificate%3A%22341225fe265056c2885c1de1975f87c096476630bd2b4e2fbc4381cdc2d47acb%22",
+         "tags": "Bianlian Go Trojan,M247",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073901": [
+      {
+         "ioc_value": "96.44.157.203:5582",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.bianlian",
+         "malware_alias": null,
+         "malware_printable": "BianLian",
+         "first_seen_utc": "2023-01-24 19:00:13",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "https://search.censys.io/search?resource=hosts&q=services.certificate%3A%220722f4d566f9a775cc3c7caca1ef93b537ed73113012bbbdc208b4be4697fc37%22",
+         "tags": "ASN-QUADRANET-GLOBAL,Bianlian Go Trojan",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073899": [
+      {
+         "ioc_value": "45.128.156.10:8080",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.bianlian",
+         "malware_alias": null,
+         "malware_printable": "BianLian",
+         "first_seen_utc": "2023-01-24 18:59:41",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "https://search.censys.io/search?resource=hosts&q=services.certificate%3A%224966ff531ef65ca95e52634f29aeab296da25c3f2a4c74e474ce0b619c26baaf%22",
+         "tags": "AS40676,Bianlian Go Trojan",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073900": [
+      {
+         "ioc_value": "45.128.156.10:8443",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.bianlian",
+         "malware_alias": null,
+         "malware_printable": "BianLian",
+         "first_seen_utc": "2023-01-24 18:59:41",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "https://search.censys.io/search?resource=hosts&q=services.certificate%3A%22f6367d2b94a43f800726b541dfe630b7c907fd0c12cdef160ccccc93317d0581%22",
+         "tags": "AS40676,Bianlian Go Trojan",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073898": [
+      {
+         "ioc_value": "3.22.15.135:18766",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.njrat",
+         "malware_alias": "Bladabindi",
+         "malware_printable": "NjRAT",
+         "first_seen_utc": "2023-01-24 18:55:33",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NjRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073897": [
+      {
+         "ioc_value": "3.138.180.119:18766",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.njrat",
+         "malware_alias": "Bladabindi",
+         "malware_printable": "NjRAT",
+         "first_seen_utc": "2023-01-24 18:50:46",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NjRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073896": [
+      {
+         "ioc_value": "62.204.41.89:80",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.amadey",
+         "malware_alias": null,
+         "malware_printable": "Amadey",
+         "first_seen_utc": "2023-01-24 18:36:02",
+         "last_seen_utc": "2023-01-25 02:48:02",
+         "confidence_level": 50,
+         "reference": "https://tracker.viriback.com/index.php?q=62.204.41.89",
+         "tags": "Amadey,ViriBack",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073895": [
+      {
+         "ioc_value": "http://178.250.158.26/protectGame/0To31/4/Protect/dleLongpoll/CentralrequestLocal/UniversalbigloadLow8/local/Downloadseternal/longpollProcessor_/lowgenerator.php",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.dcrat",
+         "malware_alias": "DarkCrystal RAT",
+         "malware_printable": "DCRat",
+         "first_seen_utc": "2023-01-24 18:10:33",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "DCRat",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073894": [
+      {
+         "ioc_value": "3.142.167.54:18577",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.njrat",
+         "malware_alias": "Bladabindi",
+         "malware_printable": "NjRAT",
+         "first_seen_utc": "2023-01-24 17:55:38",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NjRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073893": [
+      {
+         "ioc_value": "3.19.130.43:18577",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.njrat",
+         "malware_alias": "Bladabindi",
+         "malware_printable": "NjRAT",
+         "first_seen_utc": "2023-01-24 17:50:46",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NjRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073892": [
+      {
+         "ioc_value": "3.142.81.166:18577",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.njrat",
+         "malware_alias": "Bladabindi",
+         "malware_printable": "NjRAT",
+         "first_seen_utc": "2023-01-24 17:45:33",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NjRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073891": [
+      {
+         "ioc_value": "3.142.129.56:18577",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.njrat",
+         "malware_alias": "Bladabindi",
+         "malware_printable": "NjRAT",
+         "first_seen_utc": "2023-01-24 17:40:34",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NjRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073890": [
+      {
+         "ioc_value": "13.58.157.220:18577",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.njrat",
+         "malware_alias": "Bladabindi",
+         "malware_printable": "NjRAT",
+         "first_seen_utc": "2023-01-24 17:35:32",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NjRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073889": [
+      {
+         "ioc_value": "libreeofice.com",
+         "ioc_type": "domain",
+         "threat_type": "payload_delivery",
+         "malware": "win.aurora_stealer",
+         "malware_alias": null,
+         "malware_printable": "Aurora Stealer",
+         "first_seen_utc": "2023-01-24 17:27:53",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://infosec.exchange/@malware_traffic/109745335603669326",
+         "tags": "AuroraStealer,fake-installer,malvertising",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073888": [
+      {
+         "ioc_value": "199.195.249.106:443",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.bumblebee",
+         "malware_alias": null,
+         "malware_printable": "BumbleBee",
+         "first_seen_utc": "2023-01-24 17:23:02",
+         "last_seen_utc": "2023-01-25 02:54:25",
+         "confidence_level": 75,
+         "reference": null,
+         "tags": null,
+         "anonymous": "0",
+         "reporter": "r0ny_123"
+      }
+   ],
+   "1073887": [
+      {
+         "ioc_value": "f0770294.xsph.ru",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.collectorgoomba",
+         "malware_alias": "Collector Stealer",
+         "malware_printable": "CollectorGoomba",
+         "first_seen_utc": "2023-01-24 17:12:02",
+         "last_seen_utc": "2023-01-25 02:48:03",
+         "confidence_level": 50,
+         "reference": "https://tracker.viriback.com/index.php?q=f0770294.xsph.ru",
+         "tags": "Collector,ViriBack",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073886": [
+      {
+         "ioc_value": "skafw.etutitsni.sa.com",
+         "ioc_type": "domain",
+         "threat_type": "payload_delivery",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:31",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073868": [
+      {
+         "ioc_value": "tefresferdbcvdfers.cyou",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:30",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073869": [
+      {
+         "ioc_value": "tefresferdbcvdfers.makeup",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:30",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073870": [
+      {
+         "ioc_value": "terfdvcuijudxsaz.cyou",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:30",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073871": [
+      {
+         "ioc_value": "terfdvcuijudxsaz.makeup",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:30",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073872": [
+      {
+         "ioc_value": "tgvrhcfyfdgbjtutghfdsfgfukjg.cyou",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:30",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073873": [
+      {
+         "ioc_value": "tgvrhcfyfdgbjtutghfdsfgfukjg.makeup",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:30",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073874": [
+      {
+         "ioc_value": "tropoldgterfads.cyou",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:30",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073875": [
+      {
+         "ioc_value": "tropoldgterfads.makeup",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:30",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073876": [
+      {
+         "ioc_value": "uijtdssezyrytoiu.cyou",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:30",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073877": [
+      {
+         "ioc_value": "uijtdssezyrytoiu.makeup",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:30",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073878": [
+      {
+         "ioc_value": "vgtrfeoildugfd.cyou",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:30",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073879": [
+      {
+         "ioc_value": "vgtrfeoildugfd.makeup",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:30",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073880": [
+      {
+         "ioc_value": "xopiudjmnbcgd.cyou",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:30",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073881": [
+      {
+         "ioc_value": "xopiudjmnbcgd.makeup",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:30",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073882": [
+      {
+         "ioc_value": "ytyrxcvuiorwe.cyou",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:30",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073883": [
+      {
+         "ioc_value": "ytyrxcvuiorwe.makeup",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:30",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073884": [
+      {
+         "ioc_value": "zopuaytsfrscxsz.cyou",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:30",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073885": [
+      {
+         "ioc_value": "zopuaytsfrscxsz.makeup",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:30",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073847": [
+      {
+         "ioc_value": "aqacdxsedwujy.makeup",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073848": [
+      {
+         "ioc_value": "asdnshdvfxbcndkdfmnmmkdfgtrv.cyou",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073849": [
+      {
+         "ioc_value": "asdnshdvfxbcndkdfmnmmkdfgtrv.makeup",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073850": [
+      {
+         "ioc_value": "bfunhdsejrwygfjwdhyerdgrtygrht.cyou",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073851": [
+      {
+         "ioc_value": "bfunhdsejrwygfjwdhyerdgrtygrht.makeup",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073852": [
+      {
+         "ioc_value": "cdfertsrwdscas.cyou",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073853": [
+      {
+         "ioc_value": "cdfertsrwdscas.makeup",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073854": [
+      {
+         "ioc_value": "cdteoiudjnmdbgx.cyou",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073855": [
+      {
+         "ioc_value": "cdteoiudjnmdbgx.makeup",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073856": [
+      {
+         "ioc_value": "cfdreterfsdws.cyou",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073857": [
+      {
+         "ioc_value": "cfdreterfsdws.makeup",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073858": [
+      {
+         "ioc_value": "chrncfehrfsnkmnfvgkvdglkjmdong.cyou",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073859": [
+      {
+         "ioc_value": "chrncfehrfsnkmnfvgkvdglkjmdong.makeup",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073860": [
+      {
+         "ioc_value": "czxsderwsaiovc.cyou",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073861": [
+      {
+         "ioc_value": "czxsderwsaiovc.makeup",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073862": [
+      {
+         "ioc_value": "gftredolsmncx.cyou",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073863": [
+      {
+         "ioc_value": "gftredolsmncx.makeup",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073864": [
+      {
+         "ioc_value": "mncxbjhgsfduywe.cyou",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073865": [
+      {
+         "ioc_value": "mncxbjhgsfduywe.makeup",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073866": [
+      {
+         "ioc_value": "mvfhgcdjfvxnhvcdfsbjcdmsfkhdvtsyd.cyou",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073867": [
+      {
+         "ioc_value": "mvfhgcdjfvxnhvcdfsbjcdmsfkhdvtsyd.makeup",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073846": [
+      {
+         "ioc_value": "aqacdxsedwujy.cyou",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.astaroth",
+         "malware_alias": "Guildma",
+         "malware_printable": "Astaroth",
+         "first_seen_utc": "2023-01-24 17:08:28",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/eeb43bebf01e4a9840688f11d874fe7b55cef510d1dc5feb5c88251efd1ef857/",
+         "tags": "Astaroth,BRA,geo,Guildma",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073843": [
+      {
+         "ioc_value": "http://65.109.210.114/862",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 16:55:32",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073844": [
+      {
+         "ioc_value": "http://95.217.16.127/",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 16:55:32",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073845": [
+      {
+         "ioc_value": "http://157.90.148.112/",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 16:55:32",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073841": [
+      {
+         "ioc_value": "http://65.109.210.114/237",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 16:55:31",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073842": [
+      {
+         "ioc_value": "http://65.109.210.114/255",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 16:55:31",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073839": [
+      {
+         "ioc_value": "http://65.109.210.114/839",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 16:55:30",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073840": [
+      {
+         "ioc_value": "http://65.109.210.114/818",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 16:55:30",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073837": [
+      {
+         "ioc_value": "http://65.21.58.6/580",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 16:55:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073838": [
+      {
+         "ioc_value": "http://195.201.251.109/580",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 16:55:29",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073835": [
+      {
+         "ioc_value": "http://65.109.210.114/562",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 16:55:28",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073836": [
+      {
+         "ioc_value": "http://65.109.210.114/754",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 16:55:28",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073834": [
+      {
+         "ioc_value": "http://65.109.210.114/19",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 16:55:26",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073833": [
+      {
+         "ioc_value": "http://65.109.210.114/15",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 16:55:25",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073832": [
+      {
+         "ioc_value": "http://65.109.210.114/764",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 16:55:24",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073830": [
+      {
+         "ioc_value": "157.90.148.112:80",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 16:55:23",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073831": [
+      {
+         "ioc_value": "95.217.16.127:80",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 16:55:23",
+         "last_seen_utc": "2023-01-25 01:09:23",
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073829": [
+      {
+         "ioc_value": "194.5.98.71:23015",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.vjw0rm",
+         "malware_alias": null,
+         "malware_printable": "Vjw0rm",
+         "first_seen_utc": "2023-01-24 16:40:33",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vjw0rm",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073828": [
+      {
+         "ioc_value": "http://auto.stevenpartners.com:23015/is-ready",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.houdini",
+         "malware_alias": "Hworm,Jenxcus,Kognito,Njw0rm,WSHRAT,dinihou,dunihi",
+         "malware_printable": "Houdini",
+         "first_seen_utc": "2023-01-24 16:35:33",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "RAT,WSHRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073827": [
+      {
+         "ioc_value": "209.25.141.211:21960",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.njrat",
+         "malware_alias": "Bladabindi",
+         "malware_printable": "NjRAT",
+         "first_seen_utc": "2023-01-24 16:30:31",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NjRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073826": [
+      {
+         "ioc_value": "http://92.63.104.96/Cdn/5PrivateTemp/traffic/Externalupdate8request/pythonlongpolldbtrack.php",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.dcrat",
+         "malware_alias": "DarkCrystal RAT",
+         "malware_printable": "DCRat",
+         "first_seen_utc": "2023-01-24 16:25:30",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "DCRat",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073825": [
+      {
+         "ioc_value": "193.42.33.14:1312",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "elf.mirai",
+         "malware_alias": "Katana",
+         "malware_printable": "Mirai",
+         "first_seen_utc": "2023-01-24 16:20:04",
+         "last_seen_utc": null,
+         "confidence_level": 75,
+         "reference": "https://bazaar.abuse.ch/sample/e0edf28753120cdd8859e48667aaf7c745099d92d535da4409659b394f90812d/",
+         "tags": "Mirai",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073824": [
+      {
+         "ioc_value": "http://alpatrik.com/org/inc/ff4783d4beeeb1.php",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.agent_tesla",
+         "malware_alias": "AgenTesla,AgentTesla,Negasteal",
+         "malware_printable": "Agent Tesla",
+         "first_seen_utc": "2023-01-24 16:05:33",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "AgentTesla",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073823": [
+      {
+         "ioc_value": "https://185.175.156.42/IE9CompatViewList.xml",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-24 15:55:48",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "AS-CHOOPA,CobaltStrike",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073822": [
+      {
+         "ioc_value": "185.175.156.42:80",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-24 15:51:55",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "CobaltStrike,The Constant Company LLC",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073821": [
+      {
+         "ioc_value": "http://185.175.156.42/pixel",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-24 15:51:53",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "CobaltStrike,The Constant Company LLC",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073820": [
+      {
+         "ioc_value": "45.15.157.134:41007",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.redline_stealer",
+         "malware_alias": null,
+         "malware_printable": "RedLine Stealer",
+         "first_seen_utc": "2023-01-24 15:40:38",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "RedLineStealer",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073819": [
+      {
+         "ioc_value": "http://62.204.41.89/8bcZfjw/index.php",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.amadey",
+         "malware_alias": null,
+         "malware_printable": "Amadey",
+         "first_seen_utc": "2023-01-24 15:00:42",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Amadey",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073818": [
+      {
+         "ioc_value": "anydesk24.com",
+         "ioc_type": "domain",
+         "threat_type": "payload_delivery",
+         "malware": "win.redline_stealer",
+         "malware_alias": null,
+         "malware_printable": "RedLine Stealer",
+         "first_seen_utc": "2023-01-24 14:59:00",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://twitter.com/ULTRAFRAUD/status/1617795193016836099",
+         "tags": "fake-installer,malvertising,RedLineStealer",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073817": [
+      {
+         "ioc_value": "5.253.114.102:50125",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.vjw0rm",
+         "malware_alias": null,
+         "malware_printable": "Vjw0rm",
+         "first_seen_utc": "2023-01-24 14:10:36",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vjw0rm",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073816": [
+      {
+         "ioc_value": "http://bona.kasowiitz.com:50125/is-ready",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.houdini",
+         "malware_alias": "Hworm,Jenxcus,Kognito,Njw0rm,WSHRAT,dinihou,dunihi",
+         "malware_printable": "Houdini",
+         "first_seen_utc": "2023-01-24 14:05:33",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "RAT,WSHRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073815": [
+      {
+         "ioc_value": "83.59.239.120:5553",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.njrat",
+         "malware_alias": "Bladabindi",
+         "malware_printable": "NjRAT",
+         "first_seen_utc": "2023-01-24 13:50:33",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "NjRAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073814": [
+      {
+         "ioc_value": "http://65.21.58.6/19",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 13:09:55",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073813": [
+      {
+         "ioc_value": "http://65.21.58.6/701",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 13:09:54",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073812": [
+      {
+         "ioc_value": "http://195.201.251.109/19",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 13:09:53",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073811": [
+      {
+         "ioc_value": "95.217.146.176:4282",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.redline_stealer",
+         "malware_alias": null,
+         "malware_printable": "RedLine Stealer",
+         "first_seen_utc": "2023-01-24 12:45:34",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "RedLineStealer",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073810": [
+      {
+         "ioc_value": "45.15.156.224:80",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.aurora_stealer",
+         "malware_alias": null,
+         "malware_printable": "Aurora Stealer",
+         "first_seen_utc": "2023-01-24 12:36:02",
+         "last_seen_utc": "2023-01-25 02:48:03",
+         "confidence_level": 50,
+         "reference": "https://tracker.viriback.com/index.php?q=45.15.156.224",
+         "tags": "Aurora,ViriBack",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073809": [
+      {
+         "ioc_value": "58402f0f41e3bfecbea9ca1bcc0f0c2b",
+         "ioc_type": "md5_hash",
+         "threat_type": "payload",
+         "malware": "win.dharma",
+         "malware_alias": "Arena,Crysis,Wadhrama,ncov",
+         "malware_printable": "Dharma",
+         "first_seen_utc": "2023-01-24 12:02:01",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "https://twitter.com/RedPacketSec/status/1617855212554690562",
+         "tags": null,
+         "anonymous": "0",
+         "reporter": "Virus_Deck"
+      }
+   ],
+   "1073808": [
+      {
+         "ioc_value": "35.164.247.19:443",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-24 11:40:19",
+         "last_seen_utc": "2023-01-25 02:48:04",
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Amazon.com Inc.,CobaltStrike",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073807": [
+      {
+         "ioc_value": "www.filebring.com",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-24 11:40:18",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Amazon.com Inc.,CobaltStrike",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073805": [
+      {
+         "ioc_value": "admin.boostbank.io",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-24 11:40:17",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Amazon.com Inc.,CobaltStrike",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073806": [
+      {
+         "ioc_value": "https://www.filebring.com/api2/json/cluster/tasks",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-24 11:40:17",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Amazon.com Inc.,CobaltStrike",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073804": [
+      {
+         "ioc_value": "https://admin.boostbank.io/gp/cerberus/gv",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-24 11:40:16",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Amazon.com Inc.,CobaltStrike",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073803": [
+      {
+         "ioc_value": "www.models.com",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-24 11:40:15",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Amazon.com Inc.,CobaltStrike",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073802": [
+      {
+         "ioc_value": "https://www.models.com/gp/cerberus/gv",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-24 11:40:14",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Amazon.com Inc.,CobaltStrike",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073800": [
+      {
+         "ioc_value": "https://www.stackpath.com/wp-content/themes/am43-6/dist/records",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-24 11:40:13",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Amazon.com Inc.,CobaltStrike",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073801": [
+      {
+         "ioc_value": "www.stackpath.com",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-24 11:40:13",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Amazon.com Inc.,CobaltStrike",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073798": [
+      {
+         "ioc_value": "https://d2r7zxxp94uuq9.cloudfront.net/ny",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-24 11:37:00",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Amazon.com Inc.,CobaltStrike",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073799": [
+      {
+         "ioc_value": "d2r7zxxp94uuq9.cloudfront.net",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-24 11:37:00",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Amazon.com Inc.,CobaltStrike",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073797": [
+      {
+         "ioc_value": "http://119.29.82.40:8053/cm",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-24 11:32:12",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "CobaltStrike",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073787": [
+      {
+         "ioc_value": "tysxri32.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:44",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073788": [
+      {
+         "ioc_value": "udkomn05.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:44",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073789": [
+      {
+         "ioc_value": "usafuj02.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:44",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073790": [
+      {
+         "ioc_value": "xunfte14.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:44",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073791": [
+      {
+         "ioc_value": "xunfzf72.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:44",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073792": [
+      {
+         "ioc_value": "xunisj12.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:44",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073793": [
+      {
+         "ioc_value": "xunmsu110.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:44",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073794": [
+      {
+         "ioc_value": "xunmzc15.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:44",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073795": [
+      {
+         "ioc_value": "xunojm112.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:44",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073796": [
+      {
+         "ioc_value": "zoupwy02.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:44",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073769": [
+      {
+         "ioc_value": "quwqjh75.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:43",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073770": [
+      {
+         "ioc_value": "quwqyp610.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:43",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073771": [
+      {
+         "ioc_value": "quwsgr36.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:43",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073772": [
+      {
+         "ioc_value": "quwszc49.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:43",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073773": [
+      {
+         "ioc_value": "quwuzf312.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:43",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073774": [
+      {
+         "ioc_value": "quwvah62.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:43",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073775": [
+      {
+         "ioc_value": "quwvjw96.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:43",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073776": [
+      {
+         "ioc_value": "quwwut65.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:43",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073777": [
+      {
+         "ioc_value": "quwxhn410.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:43",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073778": [
+      {
+         "ioc_value": "quwxst310.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:43",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073779": [
+      {
+         "ioc_value": "quwyuf24.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:43",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073780": [
+      {
+         "ioc_value": "quwyxj64.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:43",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073781": [
+      {
+         "ioc_value": "quwzey510.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:43",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073782": [
+      {
+         "ioc_value": "riwaqc08.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:43",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073783": [
+      {
+         "ioc_value": "riwjig10.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:43",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073784": [
+      {
+         "ioc_value": "tyokri311.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:43",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073785": [
+      {
+         "ioc_value": "tyosfn310.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:43",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073786": [
+      {
+         "ioc_value": "tyozyh39.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:43",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073751": [
+      {
+         "ioc_value": "malwuv05.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:42",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073752": [
+      {
+         "ioc_value": "mipdeq14.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:42",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073753": [
+      {
+         "ioc_value": "mipjht13.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:42",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073754": [
+      {
+         "ioc_value": "mipmkh110.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:42",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073755": [
+      {
+         "ioc_value": "moreso04.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:42",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073756": [
+      {
+         "ioc_value": "pabevw04.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:42",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073757": [
+      {
+         "ioc_value": "pabnco07.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:42",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073758": [
+      {
+         "ioc_value": "paboea05.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:42",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073759": [
+      {
+         "ioc_value": "psizew08.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:42",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073760": [
+      {
+         "ioc_value": "qaleaz62.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:42",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073761": [
+      {
+         "ioc_value": "quwang234.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:42",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073762": [
+      {
+         "ioc_value": "quwang99.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:42",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073763": [
+      {
+         "ioc_value": "quwbyr210.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:42",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073764": [
+      {
+         "ioc_value": "quwejs25.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:42",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073765": [
+      {
+         "ioc_value": "quwmbc55.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:42",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073766": [
+      {
+         "ioc_value": "quwmbe74.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:42",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073767": [
+      {
+         "ioc_value": "quwnbe511.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:42",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073768": [
+      {
+         "ioc_value": "quwpzs45.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:42",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073736": [
+      {
+         "ioc_value": "avombd28.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:41",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073737": [
+      {
+         "ioc_value": "avowfx22.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:41",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073738": [
+      {
+         "ioc_value": "kihcer07.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:41",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073739": [
+      {
+         "ioc_value": "kihmto04.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:41",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073740": [
+      {
+         "ioc_value": "kudwum22.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:41",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073741": [
+      {
+         "ioc_value": "luvkhu711.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:41",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073742": [
+      {
+         "ioc_value": "luvlem710.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:41",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073743": [
+      {
+         "ioc_value": "luvqyb73.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:41",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073744": [
+      {
+         "ioc_value": "luvqyb74.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:41",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073745": [
+      {
+         "ioc_value": "luvuyi63.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:41",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073746": [
+      {
+         "ioc_value": "maldyi04.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:41",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073747": [
+      {
+         "ioc_value": "malmur08.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:41",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073748": [
+      {
+         "ioc_value": "malsux10.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:41",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073749": [
+      {
+         "ioc_value": "maltdi07.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:41",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073750": [
+      {
+         "ioc_value": "malwbo02.top",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.cryptbot",
+         "malware_alias": null,
+         "malware_printable": "CryptBot",
+         "first_seen_utc": "2023-01-24 10:25:41",
+         "last_seen_utc": null,
+         "confidence_level": 50,
+         "reference": "",
+         "tags": "cryptbot",
+         "anonymous": "0",
+         "reporter": "tiresearch1"
+      }
+   ],
+   "1073735": [
+      {
+         "ioc_value": "http://195.201.251.109/237",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 09:45:39",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073733": [
+      {
+         "ioc_value": "http://65.109.208.142/597",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 09:45:38",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073734": [
+      {
+         "ioc_value": "http://65.109.208.142/743",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 09:45:38",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073730": [
+      {
+         "ioc_value": "http://195.201.251.109/408",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 09:45:37",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073731": [
+      {
+         "ioc_value": "http://195.201.251.109/782",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 09:45:37",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073732": [
+      {
+         "ioc_value": "http://65.109.208.140/782",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 09:45:37",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073728": [
+      {
+         "ioc_value": "http://195.201.251.109/835",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 09:45:36",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073729": [
+      {
+         "ioc_value": "http://65.21.58.6/782",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 09:45:36",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073726": [
+      {
+         "ioc_value": "http://65.21.58.6/237",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 09:45:35",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073727": [
+      {
+         "ioc_value": "http://167.235.153.37/829",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.vidar",
+         "malware_alias": null,
+         "malware_printable": "Vidar",
+         "first_seen_utc": "2023-01-24 09:45:35",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Vidar",
+         "anonymous": "0",
+         "reporter": "crep1x"
+      }
+   ],
+   "1073725": [
+      {
+         "ioc_value": "95.216.102.32:7707",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.asyncrat",
+         "malware_alias": null,
+         "malware_printable": "AsyncRAT",
+         "first_seen_utc": "2023-01-24 09:35:34",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "AsyncRAT,RAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073724": [
+      {
+         "ioc_value": "95.217.146.176:4281",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.redline_stealer",
+         "malware_alias": null,
+         "malware_printable": "RedLine Stealer",
+         "first_seen_utc": "2023-01-24 09:00:44",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "RedLineStealer",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073723": [
+      {
+         "ioc_value": "http://37.1.208.22/",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.recordbreaker",
+         "malware_alias": null,
+         "malware_printable": "RecordBreaker",
+         "first_seen_utc": "2023-01-24 08:05:40",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "RecordBreaker",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073722": [
+      {
+         "ioc_value": "185.101.93.102:4823",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.mekotio",
+         "malware_alias": null,
+         "malware_printable": "Mekotio",
+         "first_seen_utc": "2023-01-24 07:32:14",
+         "last_seen_utc": null,
+         "confidence_level": 75,
+         "reference": "https://twitter.com/Merlax_/status/1617705925779017729",
+         "tags": "BRA,geo,Mekotio",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073720": [
+      {
+         "ioc_value": "185.101.93.178:80",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.mekotio",
+         "malware_alias": null,
+         "malware_printable": "Mekotio",
+         "first_seen_utc": "2023-01-24 07:31:26",
+         "last_seen_utc": null,
+         "confidence_level": 75,
+         "reference": "https://twitter.com/Merlax_/status/1617705925779017729",
+         "tags": "BRA,geo,Mekotio",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073721": [
+      {
+         "ioc_value": "185.101.93.170:80",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.mekotio",
+         "malware_alias": null,
+         "malware_printable": "Mekotio",
+         "first_seen_utc": "2023-01-24 07:31:26",
+         "last_seen_utc": null,
+         "confidence_level": 75,
+         "reference": "https://twitter.com/Merlax_/status/1617705925779017729",
+         "tags": "BRA,geo,Mekotio",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073718": [
+      {
+         "ioc_value": "80.89.239.12:2325",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.mekotio",
+         "malware_alias": null,
+         "malware_printable": "Mekotio",
+         "first_seen_utc": "2023-01-24 07:29:40",
+         "last_seen_utc": null,
+         "confidence_level": 75,
+         "reference": "https://twitter.com/Merlax_/status/1617705925779017729",
+         "tags": "BRA,geo,Mekotio",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073719": [
+      {
+         "ioc_value": "185.101.92.25:8090",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.mekotio",
+         "malware_alias": null,
+         "malware_printable": "Mekotio",
+         "first_seen_utc": "2023-01-24 07:29:40",
+         "last_seen_utc": null,
+         "confidence_level": 75,
+         "reference": "https://twitter.com/Merlax_/status/1617705925779017729",
+         "tags": "BRA,geo,Mekotio",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073717": [
+      {
+         "ioc_value": "http://20.226.125.180/file/?/boot/",
+         "ioc_type": "url",
+         "threat_type": "payload_delivery",
+         "malware": "unknown",
+         "malware_alias": null,
+         "malware_printable": "Unknown malware",
+         "first_seen_utc": "2023-01-24 07:18:10",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://twitter.com/Merlax_/status/1617673017181736960",
+         "tags": "BRA,geo",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073716": [
+      {
+         "ioc_value": "http://51.77.193.20/file/?/boot/",
+         "ioc_type": "url",
+         "threat_type": "payload_delivery",
+         "malware": "unknown",
+         "malware_alias": null,
+         "malware_printable": "Unknown malware",
+         "first_seen_utc": "2023-01-24 07:18:09",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://twitter.com/Merlax_/status/1617673017181736960",
+         "tags": "BRA,geo",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073715": [
+      {
+         "ioc_value": "hownter2301.blob.core.windows.net",
+         "ioc_type": "domain",
+         "threat_type": "payload_delivery",
+         "malware": "unknown",
+         "malware_alias": null,
+         "malware_printable": "Unknown malware",
+         "first_seen_utc": "2023-01-24 07:14:56",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://twitter.com/Merlax_/status/1617673017181736960",
+         "tags": "BRA,geo",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073714": [
+      {
+         "ioc_value": "https://hownter2301.blob.core.windows.net/brumnx2301fff/AshampDIro.apk",
+         "ioc_type": "url",
+         "threat_type": "payload_delivery",
+         "malware": "unknown",
+         "malware_alias": null,
+         "malware_printable": "Unknown malware",
+         "first_seen_utc": "2023-01-24 07:14:34",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://twitter.com/Merlax_/status/1617673017181736960",
+         "tags": "BRA,geo",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073713": [
+      {
+         "ioc_value": "5.252.178.169:80",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "unknown",
+         "malware_alias": null,
+         "malware_printable": "Unknown malware",
+         "first_seen_utc": "2023-01-24 07:12:36",
+         "last_seen_utc": null,
+         "confidence_level": 75,
+         "reference": "https://twitter.com/Merlax_/status/1617673017181736960",
+         "tags": "BRA,geo",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073712": [
+      {
+         "ioc_value": "joliedocescapnhalida.com",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "unknown",
+         "malware_alias": null,
+         "malware_printable": "Unknown malware",
+         "first_seen_utc": "2023-01-24 07:12:14",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://twitter.com/Merlax_/status/1617673017181736960",
+         "tags": "BRA,geo",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073711": [
+      {
+         "ioc_value": "45.139.105.174:6900",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.ave_maria",
+         "malware_alias": "AVE_MARIA,AveMariaRAT,Warzone RAT,WarzoneRAT,avemaria",
+         "malware_printable": "Ave Maria",
+         "first_seen_utc": "2023-01-24 07:00:53",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "AveMariaRAT,RAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073710": [
+      {
+         "ioc_value": "http://79.137.197.160/",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.recordbreaker",
+         "malware_alias": null,
+         "malware_printable": "RecordBreaker",
+         "first_seen_utc": "2023-01-24 06:55:44",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "RecordBreaker",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073709": [
+      {
+         "ioc_value": "154.12.234.207:6606",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.asyncrat",
+         "malware_alias": null,
+         "malware_printable": "AsyncRAT",
+         "first_seen_utc": "2023-01-24 06:45:42",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "AsyncRAT,RAT",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073708": [
+      {
+         "ioc_value": "83.217.11.7:80",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.amadey",
+         "malware_alias": null,
+         "malware_printable": "Amadey",
+         "first_seen_utc": "2023-01-24 06:36:01",
+         "last_seen_utc": "2023-01-25 02:48:03",
+         "confidence_level": 50,
+         "reference": "https://tracker.viriback.com/index.php?q=83.217.11.7",
+         "tags": "Amadey,ViriBack",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073707": [
+      {
+         "ioc_value": "80.66.64.219:8080",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.fickerstealer",
+         "malware_alias": null,
+         "malware_printable": "Ficker Stealer",
+         "first_seen_utc": "2023-01-24 06:35:39",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "FickerStealer",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073706": [
+      {
+         "ioc_value": "http://89.238.185.17/",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.recordbreaker",
+         "malware_alias": null,
+         "malware_printable": "RecordBreaker",
+         "first_seen_utc": "2023-01-24 06:30:40",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "RecordBreaker",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073705": [
+      {
+         "ioc_value": "179.43.175.174:80",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.redline_stealer",
+         "malware_alias": null,
+         "malware_printable": "RedLine Stealer",
+         "first_seen_utc": "2023-01-24 06:25:39",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "RedLineStealer",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073704": [
+      {
+         "ioc_value": "http://83.217.11.7/8vcWxwwx3/index.php",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.amadey",
+         "malware_alias": null,
+         "malware_printable": "Amadey",
+         "first_seen_utc": "2023-01-24 06:20:36",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "Amadey",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073703": [
+      {
+         "ioc_value": "http://armannl5.beget.tech/_Defaultwindows.php",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.dcrat",
+         "malware_alias": "DarkCrystal RAT",
+         "malware_printable": "DCRat",
+         "first_seen_utc": "2023-01-24 06:10:34",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "DCRat",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073702": [
+      {
+         "ioc_value": "gilvantur.com",
+         "ioc_type": "domain",
+         "threat_type": "botnet_cc",
+         "malware": "win.oski",
+         "malware_alias": null,
+         "malware_printable": "Oski Stealer",
+         "first_seen_utc": "2023-01-24 05:00:03",
+         "last_seen_utc": "2023-01-25 02:48:03",
+         "confidence_level": 50,
+         "reference": "https://tracker.viriback.com/index.php?q=gilvantur.com",
+         "tags": "Oski,ViriBack",
+         "anonymous": "0",
+         "reporter": "abuse_ch"
+      }
+   ],
+   "1073701": [
+      {
+         "ioc_value": "101.43.129.115:443",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-24 03:38:49",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "CobaltStrike",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073700": [
+      {
+         "ioc_value": "https://101.43.129.115/cx",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.cobalt_strike",
+         "malware_alias": "Agentemis,BEACON,CobaltStrike,cobeacon",
+         "malware_printable": "Cobalt Strike",
+         "first_seen_utc": "2023-01-24 03:38:48",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": null,
+         "tags": "CobaltStrike",
+         "anonymous": "0",
+         "reporter": "drb_ra"
+      }
+   ],
+   "1073684": [
+      {
+         "ioc_value": "5.196.196.252:8080",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.icedid",
+         "malware_alias": "BokBot,IceID",
+         "malware_printable": "IcedID",
+         "first_seen_utc": "2023-01-23 23:54:56",
+         "last_seen_utc": null,
+         "confidence_level": 90,
+         "reference": null,
+         "tags": "Backconnect,bokbot,IcedID",
+         "anonymous": "0",
+         "reporter": "teamcymru_S2"
+      }
+   ],
+   "1073667": [
+      {
+         "ioc_value": "http://83.217.11.23",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.raccoon",
+         "malware_alias": "Mohazo,RaccoonStealer,Racealer,Racoon",
+         "malware_printable": "Raccoon",
+         "first_seen_utc": "2023-01-23 20:33:30",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "",
+         "tags": null,
+         "anonymous": "0",
+         "reporter": "User1045789"
+      }
+   ],
+   "1073668": [
+      {
+         "ioc_value": "http://77.73.134.82",
+         "ioc_type": "url",
+         "threat_type": "botnet_cc",
+         "malware": "win.raccoon",
+         "malware_alias": "Mohazo,RaccoonStealer,Racealer,Racoon",
+         "malware_printable": "Raccoon",
+         "first_seen_utc": "2023-01-23 20:33:30",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "",
+         "tags": null,
+         "anonymous": "0",
+         "reporter": "User1045789"
+      }
+   ],
+   "1073619": [
+      {
+         "ioc_value": "80.89.239.203:37348",
+         "ioc_type": "ip:port",
+         "threat_type": "botnet_cc",
+         "malware": "win.redline_stealer",
+         "malware_alias": null,
+         "malware_printable": "RedLine Stealer",
+         "first_seen_utc": "2023-01-23 16:17:00",
+         "last_seen_utc": null,
+         "confidence_level": 100,
+         "reference": "https://bazaar.abuse.ch/sample/43da12ccb14f478423b898e8bc403554f15c7c745ebf19d39f19b865f1f91cb5/",
+         "tags": "FakeNftumArt,NftmusArt",
+         "anonymous": "0",
+         "reporter": "Iamdeadlyz"
+      }
    ]
 }
